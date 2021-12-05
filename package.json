@@ -16,5 +16,9 @@
   "bugs": {
     "url": "https://github.com/Brennanp432/AoC2021/issues"
   },
-  "homepage": "https://github.com/Brennanp432/AoC2021#readme"
+  "homepage": "https://github.com/Brennanp432/AoC2021#readme",
+  "dependencies": {
+    "fs-extra": "^10.0.0",
+    "lodash": "^4.17.21"
+  }
 }
